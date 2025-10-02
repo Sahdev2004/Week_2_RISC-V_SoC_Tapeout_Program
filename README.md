@@ -1,6 +1,7 @@
-# Week 2 Task: BabySoC Fundamentals & Functional Modelling 🧠💻
+## Week 2 Task: BabySoC Fundamentals & Functional Modelling 🧠💻
 
 This repository documents the tasks completed for Week 2, focusing on building a foundational understanding of **System-on-Chip (SoC) design** and performing **functional modelling** of the **BabySoC** project using industry-standard simulation tools. 
+
 ---
 
 ## 🎯 Objective
